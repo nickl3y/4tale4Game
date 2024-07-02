@@ -1,0 +1,19 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Tale4Game.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\VR NT\Documents\GitHub\4tale4Game\Tale4Game\Intermediate\Build\Win64\x64\Tale4GameEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"C:\Users\VR NT\Documents\GitHub\4tale4Game\Tale4Game\Intermediate\Build\Win64\x64\UnrealEditor\Development\Tale4Game\Shooter.gen.cpp.obj"
+"C:\Users\VR NT\Documents\GitHub\4tale4Game\Tale4Game\Intermediate\Build\Win64\x64\UnrealEditor\Development\Tale4Game\Tale4Game.init.gen.cpp.obj"
+"C:\Users\VR NT\Documents\GitHub\4tale4Game\Tale4Game\Intermediate\Build\Win64\x64\UnrealEditor\Development\Tale4Game\Tale4GameMode.gen.cpp.obj"
+"C:\Users\VR NT\Documents\GitHub\4tale4Game\Tale4Game\Intermediate\Build\Win64\x64\UnrealEditor\Development\Tale4Game\WaiterPawn.gen.cpp.obj"
+"C:\Users\VR NT\Documents\GitHub\4tale4Game\Tale4Game\Intermediate\Build\Win64\x64\UnrealEditor\Development\Tale4Game\Shooter.cpp.obj"
+"C:\Users\VR NT\Documents\GitHub\4tale4Game\Tale4Game\Intermediate\Build\Win64\x64\UnrealEditor\Development\Tale4Game\Tale4Game.cpp.obj"
+"C:\Users\VR NT\Documents\GitHub\4tale4Game\Tale4Game\Intermediate\Build\Win64\x64\UnrealEditor\Development\Tale4Game\Tale4GameMode.cpp.obj"
+"C:\Users\VR NT\Documents\GitHub\4tale4Game\Tale4Game\Intermediate\Build\Win64\x64\UnrealEditor\Development\Tale4Game\WaiterPawn.cpp.obj"
+"C:\Users\VR NT\Documents\GitHub\4tale4Game\Tale4Game\Intermediate\Build\Win64\x64\UnrealEditor\Development\Tale4Game\Default.rc2.res"
+/OUT:"C:\Users\VR NT\Documents\GitHub\4tale4Game\Tale4Game\Intermediate\Build\Win64\x64\UnrealEditor\Development\Tale4Game\UnrealEditor-Tale4Game.lib"

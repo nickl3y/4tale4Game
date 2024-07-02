@@ -1,0 +1,23 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\vr nt\\documents\\github\\4tale4game\\tale4game\\intermediate\\build\\win64\\unrealeditor\\inc\\tale4game\\uht\\shooter.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\vr nt\\documents\\github\\4tale4game\\tale4game\\intermediate\\build\\win64\\x64\\tale4gameeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\vr nt\\documents\\github\\4tale4game\\tale4game\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\tale4game\\definitions.tale4game.h",
+            "c:\\users\\vr nt\\documents\\github\\4tale4game\\tale4game\\source\\tale4game\\shooter.h",
+            "d:\\program files\\epic\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "d:\\program files\\epic\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "d:\\program files\\epic\\ue_5.3\\engine\\source\\runtime\\experimental\\iris\\core\\public\\iris\\serialization\\irisobjectreferencepackagemap.h",
+            "d:\\program files\\epic\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\iriscore\\uht\\irisobjectreferencepackagemap.generated.h",
+            "d:\\program files\\epic\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementreplication.generated.h",
+            "d:\\program files\\epic\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "d:\\program files\\epic\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
+            "d:\\program files\\epic\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
+            "c:\\users\\vr nt\\documents\\github\\4tale4game\\tale4game\\intermediate\\build\\win64\\unrealeditor\\inc\\tale4game\\uht\\shooter.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

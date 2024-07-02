@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\vr nt\\documents\\github\\4tale4game\\tale4game\\intermediate\\build\\win64\\unrealeditor\\inc\\tale4game\\uht\\waiterpawn.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\vr nt\\documents\\github\\4tale4game\\tale4game\\intermediate\\build\\win64\\x64\\tale4gameeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\vr nt\\documents\\github\\4tale4game\\tale4game\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\tale4game\\definitions.tale4game.h",
+            "c:\\users\\vr nt\\documents\\github\\4tale4game\\tale4game\\source\\tale4game\\waiterpawn.h",
+            "c:\\users\\vr nt\\documents\\github\\4tale4game\\tale4game\\intermediate\\build\\win64\\unrealeditor\\inc\\tale4game\\uht\\waiterpawn.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

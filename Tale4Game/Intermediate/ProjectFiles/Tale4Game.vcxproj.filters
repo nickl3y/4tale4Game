@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Tale4Game.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Tale4Game.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Tale4GameEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Tale4Game">
+      <UniqueIdentifier>{99224AB9-3D66-3CC5-BC58-77BD94454BA0}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Tale4Game\Shooter.cpp">
+      <Filter>Source\Tale4Game</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Tale4Game\Shooter.h">
+      <Filter>Source\Tale4Game</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\Tale4Game\Tale4Game.Build.cs">
+      <Filter>Source\Tale4Game</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Tale4Game\Tale4Game.cpp">
+      <Filter>Source\Tale4Game</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Tale4Game\Tale4Game.h">
+      <Filter>Source\Tale4Game</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Tale4Game\Tale4GameMode.cpp">
+      <Filter>Source\Tale4Game</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Tale4Game\Tale4GameMode.h">
+      <Filter>Source\Tale4Game</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Tale4Game\WaiterPawn.cpp">
+      <Filter>Source\Tale4Game</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Tale4Game\WaiterPawn.h">
+      <Filter>Source\Tale4Game</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
