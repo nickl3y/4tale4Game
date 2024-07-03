@@ -11,15 +11,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e34fc66d-1ef7-4ede-a3c9-a64ac2e99c12" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Content/Code/BP_ThirdPersonCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Code/BP_ThirdPersonCharacter.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Code/Weapons/BP_GunRoot.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Code/Weapons/BP_GunRoot.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Config/CoalescedSourceConfigs/Lightmass.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Crashes/UECC-Windows-2D854CC94AFF52F3268788B49256E81A_0000/CrashContext.runtime-xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Crashes/UECC-Windows-2D854CC94AFF52F3268788B49256E81A_0000/CrashReportClient.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Crashes/UECC-Windows-2D854CC94AFF52F3268788B49256E81A_0000/Tale4Game.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/LevelPrototyping/Meshes/SM_Ramp.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/LevelPrototyping/Meshes/SM_Ramp.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/Levels/Test1.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Levels/Test1.umap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/BuildRules/Tale4GameModuleRules.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/BuildRules/Tale4GameModuleRules.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/BuildRules/Tale4GameModuleRulesManifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/BuildRules/Tale4GameModuleRulesManifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/ProjectFiles/.Rider/Win64/Development/Editor/Tale4Game.json" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/ProjectFiles/.Rider/Win64/Development/Editor/Tale4Game.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/CachedAssetRegistry_0.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/CachedAssetRegistry_0.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/PackageRestoreData.json" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Autosaves/PackageRestoreData.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Saved/Logs/Tale4Game.log" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Logs/Tale4Game.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tale4Game.uproject" beforeDir="false" afterPath="$PROJECT_DIR$/Tale4Game.uproject" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/SourceControl/UncontrolledChangelists.json" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/SourceControl/UncontrolledChangelists.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -193,7 +195,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1719945697970</updated>
-      <workItem from="1719945699919" duration="14157000" />
+      <workItem from="1719945699919" duration="14714000" />
     </task>
     <servers />
   </component>
