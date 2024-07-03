@@ -1,7 +1,6 @@
 {
 	"SourceFiles": [
 		"C:\\Users\\VR NT\\Documents\\GitHub\\4tale4Game\\Tale4Game\\Source\\Tale4Game\\Tale4Game.Build.cs",
-		"C:\\Users\\VR NT\\Documents\\GitHub\\4tale4Game\\Tale4Game\\Plugins\\BlueprintAssist\\Source\\BlueprintAssist\\BlueprintAssist.Build.cs",
 		"C:\\Users\\VR NT\\Documents\\GitHub\\4tale4Game\\Tale4Game\\Source\\Tale4Game.Target.cs",
 		"C:\\Users\\VR NT\\Documents\\GitHub\\4tale4Game\\Tale4Game\\Source\\Tale4GameEditor.Target.cs"
 	],
