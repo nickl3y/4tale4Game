@@ -18,6 +18,9 @@
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
     </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
     <None Include="..\..\Config\DefaultEngine.ini">
       <Filter>Config</Filter>
     </None>
@@ -30,10 +33,10 @@
     <Filter Include="Source\Tale4Game">
       <UniqueIdentifier>{99224AB9-3D66-3CC5-BC58-77BD94454BA0}</UniqueIdentifier>
     </Filter>
-    <ClCompile Include="..\..\Source\Tale4Game\Shooter.cpp">
+    <ClCompile Include="..\..\Source\Tale4Game\GunRoot.cpp">
       <Filter>Source\Tale4Game</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\Source\Tale4Game\Shooter.h">
+    <ClInclude Include="..\..\Source\Tale4Game\GunRoot.h">
       <Filter>Source\Tale4Game</Filter>
     </ClInclude>
     <None Include="..\..\Source\Tale4Game\Tale4Game.Build.cs">
@@ -45,16 +48,16 @@
     <ClInclude Include="..\..\Source\Tale4Game\Tale4Game.h">
       <Filter>Source\Tale4Game</Filter>
     </ClInclude>
-    <ClCompile Include="..\..\Source\Tale4Game\Tale4GameMode.cpp">
+    <ClCompile Include="..\..\Source\Tale4Game\Tale4GameCharacter.cpp">
       <Filter>Source\Tale4Game</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\Source\Tale4Game\Tale4GameMode.h">
+    <ClInclude Include="..\..\Source\Tale4Game\Tale4GameCharacter.h">
       <Filter>Source\Tale4Game</Filter>
     </ClInclude>
-    <ClCompile Include="..\..\Source\Tale4Game\WaiterPawn.cpp">
+    <ClCompile Include="..\..\Source\Tale4Game\Tale4GameGameMode.cpp">
       <Filter>Source\Tale4Game</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\Source\Tale4Game\WaiterPawn.h">
+    <ClInclude Include="..\..\Source\Tale4Game\Tale4GameGameMode.h">
       <Filter>Source\Tale4Game</Filter>
     </ClInclude>
   </ItemGroup>

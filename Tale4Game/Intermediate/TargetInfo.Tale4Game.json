@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Tale4Game",
+			"Path": "..\\Source\\Tale4Game.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Tale4GameEditor",
+			"Path": "..\\Source\\Tale4GameEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
